@@ -1,4 +1,6 @@
-#include<aks.h>
+#include<graphics.h>
+#include<conio.h>
+#include<stdio.h>
 #include<math.h>
 void main()
 {
